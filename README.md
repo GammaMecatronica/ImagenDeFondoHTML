@@ -6,3 +6,8 @@ Link del video
 
 
 ------------------------------------->[LINK](https://youtu.be/veRCVDCUFDE)
+
+
+Despliegue de la página del tutorial:
+
+[DESPLIEGUE](https://gammamecatronica.github.io/ImagenDeFondoHTML/)
